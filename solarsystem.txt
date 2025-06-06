@@ -9,4 +9,3 @@ Mars
 Jupiter
 Saturn
 Uranus
-Plutp
